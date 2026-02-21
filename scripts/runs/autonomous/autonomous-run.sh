@@ -17,10 +17,10 @@
 set -e  # Exit on error
 
 # === CONFIGURATION (CUSTOMIZE THESE) ===
-AGENT_NAME="YourAgent"  # Replace with your agent's name
-WORKSPACE="/path/to/your/workspace"  # Replace with your workspace path
-REPO_OWNER="your-github-username"  # Replace with your GitHub username
-REPO_NAME="your-agent-workspace"  # Replace with your workspace repo name
+AGENT_NAME="Nexus"  # Replace with your agent's name
+WORKSPACE="/Users/antonioreid/nexus"  # Replace with your workspace path
+REPO_OWNER="AReid987"  # Replace with your GitHub username
+REPO_NAME="nexus"  # Replace with your workspace repo name
 SCRIPT_TIMEOUT=3000  # 50 minutes in seconds (allows hourly scheduling with buffer)
 # ========================================
 
